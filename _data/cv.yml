@@ -1,0 +1,157 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Aya Mouallem
+    - name: Languages
+      value: English, Arabic
+    - name: Full CV
+      value: Upon request at mouallem(at)stanford(dot)edu
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MS/PhD in Electrical Engineering
+      institution: Stanford University, USA
+      year: 2020 - Present
+      description:
+        - GPA - 4.0/4.0
+        - title: Selected coursework
+          contents:
+            - ENGR 210 - Perspectives in Assistive Technology.
+            - EDUC 200B - Qualitative Research Methods
+            - CS 230 - Deep Learning
+    - title: BE in Computer and Communications Engineering
+      institution: American University of Beirut, Lebanon
+      year: 2016 - 2020
+      description:
+        - GPA - 4.0/4.0
+        - Best ECE Final Year Project Award, “A Multi-Core Self-Aware Hardware Architecture”
+        - Penrose Award, received by one graduating senior per faculty on the basis of scholarship and leadership
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Course Assistnat
+      institution: Stanford University, USA
+      year: Jan 2023 - May 2023
+
+    - title: Graduate Research Assistnat
+      institution: Designing Education Lab, Stanford University, USA
+      year: Jan 2022 - Present
+
+    - title: Graduate Research Assistnat
+      institution: Murmann Mixed-Signal Group, Stanford University, USA
+      year: Sep 2020 - Dec 2021
+
+    - title: Undergraduate Research Assistant
+      institution: Kanj Group, American University of Beirut, Lebanon
+      year: Sep 2018 - Aug 2020
+
+    - title: Undergraduate Teaching Assistant
+      institution: American University of Beirut, Lebanon
+      year: Jun 2018 - Aug 2018
+
+    - title: Undergraduate Hardware Researcher
+      institution: Kanj Group at the American University of Beirut, Kurdahi Group at UC Irvine, USA
+      year: Sep 2019 - May 2020
+
+    - title: Hardware Research Intern
+      institution: Khuri-Yakub Ultrasonics Group, Stanford University, USA
+      year: Jun 2019 - Aug 2019
+
+    - title: Program Intern
+      institution: TeensWhoCode, Lebanon
+      year: Dec 2017 - Jan 2018
+
+    - title: Developer Intern
+      institution: Lebanese Alternative Learning, Lebanon
+      year: Oct 2017 - Dec 2017
+
+- title: Honors, Awards, and Fellowships
+  type: time_table
+  contents:
+
+    - title: Woman of the Month
+      institution: UN Women France
+      year: Oct 2022
+      description: <a href="https://www.the961.com/lebanese-aya-mouallem-woman-of-the-month/">Media Coverage</a>
+
+    - title: Profile Chapter in the Book "Pioneer Women in the Arab World"
+      institution: UNESCO and the Issam Fares Institute for Public Policy and International Affairs
+      year: Mar 2022
+      description: <a href="https://aub.edu.lb.libguides.com/c.php?g=841773&p=6015049">Library Archive</a>
+
+    - title: Research, Action, and Impact through Strategic Engagement (RAISE) Doctoral Fellow
+      institution: Stanford Office of the Vice Provost for Graduate Education
+      year: Sep 2022 - Jun 2025
+      description: <a href="https://vpge.stanford.edu/fellowships-funding/RAISE">Website</a>
+
+    - title: Accel Leadership Program Fellow
+      institution: Stanford Technology Ventures Program
+      year: Jan 2022 - Jun 2022
+      description: <a href="https://stvp.stanford.edu/alp">Website</a>
+
+    - title: Named One of 10 Women Changing the Landscape of Leadership Worldwide
+      institution: The New York Times
+      year: Mar 2021
+      description: <a href="https://www.nytimes.com/live/2021/03/05/world/women-leadership">Article</a>
+
+    - title: Gender Innovation Agora Fellow
+      institution: UN Woman in the Arab States
+      year: Jan 2021 - Jan 2022
+      description: <a href="https://arabstates.unwomen.org/en/news/stories/2020/12/un-women-announces-new-cohort-of-youth-advocates">Announcement</a>
+
+    - title: Knight-Hennessy Scholar
+      institution: Stanford University
+      year: Sep 2020 - Sep 2023
+      description: 1.2% acceptance rate, <a href="https://knight-hennessy.stanford.edu"> website</a>
+
+    - title: The Diana Award Recipient
+      institution: The Diana Award Committee, in Princess Diana's memory
+      year: Jul 2019
+      description: <a href="https://diana-award.org.uk">Website</a>
+
+    - title: The Baassiri Exceptional Volunteer of the Year Award
+      institution: American University of Beirut
+      year: Jun 2018
+
+    - title: Johnson & Johnson Fellow at the Devex World 2018 Conference
+      institution: Johnson & Johnson
+      year: Jun 2018
+      description: <a href="https://stvp.stanford.edu/alp">Profile</a>
+
+    - title: Young Leader Fellow
+      institution: Women Deliver
+      year: Feb 2018 - Jan 2020
+
+- title: Outreach Efforts
+  type: time_table
+  contents:
+    - title: Founder and Director
+      institution: All Girls Code
+      year: Mar 2017 - Present
+      description: <a href="https://www.allgirlscode.me">Website</a>
+
+    - title: Panelist with John Hennessy (chairperson of Alphabet) and Phil Knight (co-founder of Nike)
+      year: May 2022
+
+    - title: Moderating a Conversation with Melinda Gates on Her New Book, The Moment of Lift
+      year: Mar 2019
+
+    - title: Founder and Director
+      institution: LebNet WiT Fellows Program
+      year: May 2022 - Present
+      description: <a href="https://lebnet.us/WiT-Fellows">Website</a>
+
+    - title: Interview with Malala Yousufzai on the Power of Youth Voices
+      year: Aug 2019
+      description: <a href="https://deliverforgood.org/the-power-of-youth-voices-qa-with-malala-yousafzai/">Interview</a>
+
+    - title: Lead Instructor and Mentor
+      institution: AUB Engineering for Good Summer Program
+      year: Jul 2018 - Aug 2018
+
+    - title: Teaching Assistant
+      institution: UN World Food Programme, Innovation for Livelihood
+      year: Nov 2016 - Dec 2016
